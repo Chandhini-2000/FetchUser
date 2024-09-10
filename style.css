@@ -54,9 +54,8 @@
   border-width: 2px;
   overflow: hidden;
   padding: 0.8rem 3rem;
-  position: absolute;
+  position: relative;
   align-items: center;
-  top: 85%;
 }
 
 .btn-12 span {
